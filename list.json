@@ -18,16 +18,31 @@
     {
       "VER": "2.0b",
       "FIRMWARE": {
-        "NAME": "NBC2_firmware_2.0.bin",
-        "URI": "https://github.com/platypus5384/NBC3Update/blob/main/firmware/NBC2_firmware_2.0.bin?raw=true"
+        "NAME": "NBC2_firmware_2.0b.bin",
+        "URI": "https://github.com/platypus5384/NBC3Update/blob/main/firmware/NBC2_firmware_2.0b.bin?raw=true"
       },
       "PARTITIONS": {
-        "NAME": "NBC2_partitions_2.0.bin",
-        "URI": "https://github.com/platypus5384/NBC3Update/blob/main/partitions/NBC2_partitions_2.0.bin?raw=true"
+        "NAME": "NBC2_partitions_2.0b.bin",
+        "URI": "https://github.com/platypus5384/NBC3Update/blob/main/partitions/NBC2_partitions_2.0b.bin?raw=true"
       },
       "SPIFFS": {
-        "NAME": "NBC2_spiffs_2.0.bin",
-        "URI": "https://github.com/platypus5384/NBC3Update/blob/main/spiffs/NBC2_spiffs_2.0.bin?raw=true"
+        "NAME": "NBC2_spiffs_2.0b.bin",
+        "URI": "https://github.com/platypus5384/NBC3Update/blob/main/spiffs/NBC2_spiffs_2.0b.bin?raw=true"
+      }
+    },
+    {
+      "VER": "2.1",
+      "FIRMWARE": {
+        "NAME": "NBC2_firmware_2.1.bin",
+        "URI": "https://github.com/platypus5384/NBC3Update/blob/main/firmware/NBC2_firmware_2.1.bin?raw=true"
+      },
+      "PARTITIONS": {
+        "NAME": "NBC2_partitions_2.1.bin",
+        "URI": "https://github.com/platypus5384/NBC3Update/blob/main/partitions/NBC2_partitions_2.1.bin?raw=true"
+      },
+      "SPIFFS": {
+        "NAME": "NBC2_spiffs_2.1.bin",
+        "URI": "https://github.com/platypus5384/NBC3Update/blob/main/spiffs/NBC2_spiffs_2.1.bin?raw=true"
       }
     }
   ]
